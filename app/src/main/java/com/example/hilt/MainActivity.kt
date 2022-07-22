@@ -11,8 +11,6 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import androidx.lifecycle.ViewModelProvider
-import com.example.MainViewModel
 import com.example.hilt.data.Note
 import com.example.hilt.ui.theme.HiltTheme
 import dagger.hilt.android.AndroidEntryPoint

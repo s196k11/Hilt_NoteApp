@@ -1,4 +1,4 @@
-package com.example
+package com.example.hilt
 
 import com.example.hilt.data.Note
 import com.example.hilt.data.NoteDao

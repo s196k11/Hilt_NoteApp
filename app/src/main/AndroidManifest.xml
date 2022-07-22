@@ -4,7 +4,7 @@
     package="com.example.hilt">
 
     <application
-        android:name="com.example.NoteApplication"
+        android:name=".NoteApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
